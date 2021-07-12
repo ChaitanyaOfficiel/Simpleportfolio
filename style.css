@@ -22,7 +22,7 @@
     
 }
 .heading{
-    font-size: 36px;
+    font-size: 1.6rem;
     position: relative;
     font-family: monospace;
     width: max-content;
@@ -182,13 +182,13 @@ border-radius: 15px;
     border-radius: 15px 15px 0 0;
 }
 .car1{
-    background-image: url(/pimages/img1.png);
+    background-image: url(./pimages/img1.png);
 }
 .car2{
-    background-image: url(/pimages/img2.png);
+    background-image: url(./pimages/img2.png);
 }
 .car3{
-    background-image: url(/pimages/R.jpg);
+    background-image: url(./pimages/R.jpg);
 }
 
 .card a{
